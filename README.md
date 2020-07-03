@@ -4,6 +4,7 @@ Uses MySQL to create a closet inventory and organization tool. Final Project for
 ***In order to run, you would need to connect to an existing MySQL database!***
 
 ### To run:
+
 install the following packages:
 
 Pip install pandas
@@ -18,7 +19,7 @@ pip install pillow
   
   
   
-### A preview of the program
+### Video preview of the program
   
   To view a preview of some of the functionality of the program, download and play the ClosetDemo.mov file. This shows a quick preview of adding an item to the db, adding a new style, and filtering items by different features. You can download the preview here.
   https://github.com/daska102/MySQL_Closet_Organizer/blob/master/Preview%20Files/ClosetDemo.mov
