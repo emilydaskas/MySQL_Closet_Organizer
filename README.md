@@ -17,7 +17,8 @@ pip install pillow
   In the command line, run 'python ClosetMain.py' from within its directory.
   
   **A preview of the program**
-  
+  ![](https://github.com/daska102/MySQL_Closet_Organizer/blob/master/Screen%20Recording%202020-07-03%20at%202.38.27%20AM.mov)
+ 
   **Database Schema**
 
 ![Image of Schema](https://github.com/daska102/MySQL_Closet_Organizer/blob/master/ClosetDBSchema.png)
