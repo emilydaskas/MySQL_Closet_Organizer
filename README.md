@@ -15,3 +15,9 @@ pip install pillow
 
   Prior to running the program, run the console_closet.sql file to create tables and indices.
   In the command line, run 'python ClosetMain.py' from within its directory.
+  
+  **A preview of the program**
+  
+  **Database Schema**
+
+![Image of Schema](https://github.com/daska102/MySQL_Closet_Organizer/blob/master/ClosetDBSchema.png)
